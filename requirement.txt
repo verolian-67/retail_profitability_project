@@ -1,0 +1,5 @@
+You require the following;
+pandas
+Numpy
+Pathlib
+SQL
