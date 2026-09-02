@@ -3,3 +3,4 @@ pandas
 Numpy
 Pathlib
 SQL
+Power BI
