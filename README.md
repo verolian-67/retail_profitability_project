@@ -412,3 +412,11 @@ The goal of this project is to demonstrate an end-to-end data analytics workflow
 Rather than focusing only on technical outputs, the project emphasizes the connection between:
 
 **Data → Analysis → Business Problem → Insight → Recommendation → Financial Impact**
+
+## 👨‍💻 Author
+
+**Verolian**
+
+## 📄 License
+
+This project is available for educational and personal development purposes. A specific open-source license can be added if the project is intended for public redistribution.
