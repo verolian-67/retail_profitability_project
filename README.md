@@ -413,10 +413,10 @@ Rather than focusing only on technical outputs, the project emphasizes the conne
 
 **Data → Analysis → Business Problem → Insight → Recommendation → Financial Impact**
 
-## 👨‍💻 Author
+## Author
 
 **Verolian**
 
-## 📄 License
+## License
 
 This project is available for educational and personal development purposes. A specific open-source license can be added if the project is intended for public redistribution.
