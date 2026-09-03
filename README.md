@@ -173,18 +173,13 @@ SQL is used as a complementary analytical tool alongside Python.
 The objective is to demonstrate the ability to retrieve, aggregate, filter, rank, and analyze business data using a relational database.
 
 The SQL analysis includes:
-
-## Data Quality
-
-## KPI Analysis
-
-## Product Analysis
-
-## Profitability Analysis
-
-## segment Analysis
-
-## shipping mode Analysis
+Data Quality
+KPI Analysis
+Product Analysis
+Profitability Analysis
+segment Analysis
+shipping mode Analysis
+region Analysis
 
 # Exploratory Data Analysis
 
